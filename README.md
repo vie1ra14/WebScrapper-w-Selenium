@@ -21,8 +21,8 @@ A aplicação foi pensada para extrair informações de sites que utilizam JavaS
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
-cd nome-do-projeto
+git clone https://github.com/vie1ra14/WebScrapper-w-Selenium.git
+cd WebScrapper-w-Selenium
 ```
 ### 2. Instalar dependências
 ```bash
